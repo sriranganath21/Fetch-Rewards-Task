@@ -1,4 +1,4 @@
-# Fetch Rewards Data Modelling Task
+# Fetch Rewards Data Modeling Task
 
 The 'Data Model' folder contains the ER diagram and the code showing each table structure.
 
